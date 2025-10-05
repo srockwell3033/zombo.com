@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Zombo.com App</title>
+  <script src="https://win32.run/js/api/0.js"></script>
+</head>
+<body style="margin:0; overflow:hidden;">
+  <iframe src="https://zombo.com" width="100%" height="100%" frameborder="0"></iframe>
+</body>
+</html>
